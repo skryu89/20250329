@@ -351,11 +351,13 @@ h5 {
     .box6 {
         padding-right: 0;
     }
-    
+
     h3 {
-        display: inline;
-        margin-right: 1000px;
-        padding-left: 100px;
+        background-color: #B99566;
+        font-size: 19px;
+        color: white;
+        font-weight: 400;
+        margin-left: 200px;
     }
     
 
