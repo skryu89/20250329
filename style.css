@@ -392,23 +392,26 @@ h5 {
     
     .mikan {
         display: flex;
-        width: 700px;
+        width: 691px;
     }
 
     .info {
         display: flex;
         font-size: 15px;
         margin-left: -5px;
+        width: 400px;
     }
 
     .info1,.info3 {
         line-height: 34px;
+        width: 400px;
     }
 
     
     .info2,.info4 {
         line-height: 34px;
         background-color: #F5F3F0;  
+        width: 600px;
     }
 
     .text1,.text3 {
