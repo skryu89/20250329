@@ -114,6 +114,10 @@ body {
 
 .box1 {
     display: flex;
+    position: fixed;
+    top: 0px;
+    background-color: white;
+    width: 1350px;
 }
 
 h1 {
@@ -289,6 +293,7 @@ h4 {
     height: 70px;
     color: white;
     background-color: #54514C;
+    width: 800px;
 }
 
 
@@ -326,6 +331,9 @@ h5 {
     background-color: #B99566;   
 }
 
+.box6 h2 {
+    margin-top: 100px;
+}
 .box8 a {
     display: block;
     text-decoration: none;
@@ -351,6 +359,15 @@ h5 {
         height: 530px;
         margin-top: -20px;
     }
+
+    .box1 {
+        display: flex;
+        position: fixed;
+        top: 0px;
+        background-color: white;
+        width: 767px;
+    }
+
     .box3,.box4,.box5 {
         display: none;
     }
@@ -416,9 +433,11 @@ h5 {
         margin-top: -5px;
         padding-top: 10px;
         margin-left: -140px;
+        width: 400px;
         height: 260px;
         color: white;
         background-color: #54514C;
+        
     }
     
     
@@ -429,11 +448,12 @@ h5 {
         border: 1px solid white;
         border-radius: 3px;
         background-color: #54514C;
-
+        width: 400px;
     }
     
     .box10 img {
         width: 160px;
         height: 20px;
     }
+
     }
