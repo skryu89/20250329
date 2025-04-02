@@ -368,6 +368,10 @@ h5 {
         width: 767px;
     }
 
+    .box2 {
+        padding-right: 0px;
+    }
+
     .box3,.box4,.box5 {
         display: none;
     }
@@ -388,6 +392,7 @@ h5 {
     
     .mikan {
         display: flex;
+        width: 700px;
     }
 
     .info {
@@ -433,7 +438,7 @@ h5 {
         margin-top: -5px;
         padding-top: 10px;
         margin-left: -140px;
-        width: 400px;
+        width: 390px;
         height: 260px;
         color: white;
         background-color: #54514C;
