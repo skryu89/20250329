@@ -129,7 +129,7 @@ h1 {
 
 
 .box2 {
-    padding-right: 700px;
+    padding-right: 590px;
 }
 
 .box3,.box4,.box5,.box6,.box7 {
@@ -235,7 +235,7 @@ h4 {
     font-size: 19px;
 }
 
-.box7 {
+.box9 {
     border-left : 4px solid #402805 ; 
     margin-top: 10px; 
     height: 60px;
@@ -281,7 +281,7 @@ h4 {
 }
 
 
-.box9 {
+.box10 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     text-align: center;
@@ -297,7 +297,7 @@ h4 {
 }
 
 
-.box10 {
+.box11 {
     font-size: 17px;
     height: 30px;
     line-height: 30px;
@@ -325,22 +325,23 @@ h5 {
 .box3 a:hover,.box4 a:hover,.box5 a:hover,.box6 a:hover,.box7 a:hover {
     color:white;
     background-color: #B99566;
+    
 }
 
 .box3:hover,.box4:hover,.box5:hover,.box6:hover,.box7:hover {
     background-color: #B99566;   
 }
 
-.box6 h2 {
+.box8 h2 {
     margin-top: 100px;
 }
-.box8 a {
+.box10 a {
     display: block;
     text-decoration: none;
     color: white;
 }
 
-.box8 a:hover {
+.box11 a:hover {
     color: #9C9B98;
     background-color: white;
 }
