@@ -342,17 +342,11 @@ h5 {
     background-color: #B99566;   
 }
 
-#Contact {
-    width: 1350px;
-}
-
 .box8 {
     width: 1350px;
-}
-
-.box8 h2 {
     margin-top: 100px;
 }
+
 .box10 a {
     display: block;
     text-decoration: none;
@@ -512,11 +506,6 @@ h5 {
         height: 20px;
     }
 
-    
-    #Contact {
-        width: 767px;
-    }
-
     footer {
         width: 767px;
     }
@@ -597,8 +586,17 @@ h5 {
         top: 40px;
         transform: rotate(-45deg);
     }
-      
-  
-    }
 
+    .box8 .slider {
+        width: 767px;
+    }
+      
+    }
     
+    .slick-prev {
+        left: 10px;
+    }
+    
+    .slick-prev {
+        right: 10px;
+    }
